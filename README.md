@@ -5,12 +5,21 @@
 About me: Combination of data scientist, big stoicism ideology advocate, aristocratic heritage, love of coding, public speaker, athelete, half extrevert/half introvert, politics/finance consentration field of study, beacon of positivity and inspiration, bringer of light to other people's lives and you pretty much got me. 
 
 ### Connect with me:
+[<img width="26px" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin">](https://www.linkedin.com/in/stanislav-chernyshov-7b74012b0/) 
+<a href="mailto:s.chernyshov@setonhill.edu"><img width="26px" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
+[<img width="26px" src="https://img.icons8.com/color/48/medium-logo.png" alt="medium-logo"/>](https://medium.com/@s.chernyshov)
+[<img width="26px" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>](https://www.instagram.com/stas.cherneshoff/)
 
-- LinkedIn: [linkedin.com/in/stanislav-chernyshov-7b74012b0](https://www.linkedin.com/in/stanislav-chernyshov-7b74012b0/) 🔗
 
-- Medium: [medium.com/@s.chernyshov](https://medium.com/@s.chernyshov) 🖋️
 
-- Instagram: [instagram.com/stas.cherneshoff/](https://www.instagram.com/stas.cherneshoff/) 📸
+
+
+<!--- 
+  - Gmail: s.chernyshov@setonhill.edu<a href="mailto:s.chernyshov@setonhill.edu?subject=Subject%20Here&body=Hello%20World!"></a>
+  - Medium: [medium.com/@s.chernyshov](https://medium.com/@s.chernyshov) 🖋️
+  - Instagram: [instagram.com/stas.cherneshoff/](https://www.instagram.com/stas.cherneshoff/) 📸
+--->
+  
 
 ### Languages and Tools:
 
