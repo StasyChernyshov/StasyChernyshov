@@ -2,7 +2,8 @@
 
 > Data Scientist (open for work!)
 
-About me: Combination of data scientist, big stoicism ideology advocate, aristocratic heritage, love of coding, public speaker, athlete, half extrovert/half introvert, politics/finance concentration field of study, beacon of positivity and inspiration, bringer of light to other people's lives and you pretty much got me.
+About me: Combination of data science, stoicism advocacy, love of code, public speaking, athleticism, balancing a hybrid of extroverted and introverted qualities, beacon of positivity and inspiration, bringer of light to other people's lives and you pretty much got me.
+
 
 ### Connect with me:
 [<img width="26px" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin">](https://www.linkedin.com/in/stanislav-chernyshov-7b74012b0/) 
