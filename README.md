@@ -40,6 +40,6 @@ About me: Combination of data science, stoicism advocacy, love of code, public s
   
 ## Favorite Books ⭐📚⭐ 
 - Meditations: Marcus Aurelius [📖](https://www.goodreads.com/book/show/30659.Meditations?from_search=true&from_srp=true&qid=PODuscHkzI&rank=1)
-- How to Win Friends and Infuence People: Dale Carnegie [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?from_search=true&from_srp=true&qid=ypkVXZEsYA&rank=1)
+- How to Win Friends and Influence People: Dale Carnegie [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?from_search=true&from_srp=true&qid=ypkVXZEsYA&rank=1)
 - The Brothers Karamazov: Fyodor Dostoevsky [📖](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov?from_search=true&from_srp=true&qid=p6hDNUqvqC&rank=1)
 - Beyond Order: Jordan Peterson [📖](https://www.goodreads.com/book/show/56019043-beyond-order?from_search=true&from_srp=true&qid=jI8ChO2Cel&rank=1)
